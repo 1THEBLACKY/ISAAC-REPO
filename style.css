@@ -5,3 +5,16 @@
 .head{
     color: blue;
 }
+.color{
+    color: aliceblue;
+    color: aquamarine;
+    color: beige;
+    color: chartreuse;
+    color: cadetblue;
+
+}
+.color:hover{
+    column-gap: normal;
+    color: bisque;
+    column-gap: normal;
+}
